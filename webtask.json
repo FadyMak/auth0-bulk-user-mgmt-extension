@@ -1,0 +1,14 @@
+{
+  "title": "Bulk User Management",
+  "name": "bulk-user-management",
+  "version": "1.0.0",
+  "author": "fady",
+  "description": "Bulk user management extension for Auth0",
+  "type": "application",
+  "keywords": [
+    "auth0"
+  ],
+  "auth0": {
+    "scopes": "read:users read:user_idp_tokens delete:users"
+  }
+}
